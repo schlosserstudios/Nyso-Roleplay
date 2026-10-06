@@ -12,6 +12,13 @@ descricao=Atacar ou matar outro jogador sem uma motivação válida dentro do RP
 punicao=
 observacao=
 
+[REGRA]
+id=002
+titulo=VDM
+descricao=Utilizar um veículo propositalmente como arma para atropelar ou matar outro jogador sem justificativa válida.
+punicao=
+observacao=
+
 [HISTORICO]
 versao=1.4
 data=06/10/2026
