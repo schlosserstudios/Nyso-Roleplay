@@ -1,9 +1,9 @@
 [INFO]
 categoria=Regras de Roleplay
 slug=roleplay
-versao=1.45
+versao=1.4
 atualizado=06/10/2026
-autor=NYSO Roleplay
+autor=Nyso Roleplay
 
 [REGRA]
 id=001
