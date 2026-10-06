@@ -8,11 +8,20 @@ autor=Nyso Roleplay
 [REGRA]
 id=001
 titulo=RDM
-descricao=o rdm e cagar na roupa
+descricao=Atacar ou matar outro jogador sem uma motivação válida dentro do RP.
 punicao=
 observacao=
 
-[HISTORICO]
-versao=
-data=
-descricao=
+[REGRA]
+id=001
+titulo=VDM 
+descricao=Utilizar um veículo propositalmente como arma para atropelar ou matar outro jogador sem justificativa válida.
+punicao=
+observacao=
+
+[REGRA]
+id=001
+titulo=RDM
+descricao=o rdm e cagar na roupa
+punicao=
+observacao=
