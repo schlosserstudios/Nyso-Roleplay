@@ -1,3 +1,18 @@
-Regra 1
-teste
+[INFO]
+categoria=Regras de Roleplay
+slug=roleplay
+versao=0.21
+atualizado=06/10/2026
+autor=Nyso Roleplay
 
+[REGRA]
+id=001
+titulo=RDM
+descricao=o rdm e cagar na roupa
+punicao=
+observacao=
+
+[HISTORICO]
+versao=
+data=
+descricao=
