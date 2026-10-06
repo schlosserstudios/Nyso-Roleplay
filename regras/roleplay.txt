@@ -1,7 +1,7 @@
 [INFO]
 categoria=Regras de Roleplay
 slug=roleplay
-versao=1.4
+versao=1.45
 atualizado=06/10/2026
 autor=NYSO Roleplay
 
