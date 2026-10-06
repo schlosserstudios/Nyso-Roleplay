@@ -1,1 +1,3 @@
+Regra 1
+teste
 
