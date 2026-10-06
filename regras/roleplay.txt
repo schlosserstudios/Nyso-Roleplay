@@ -11,15 +11,6 @@ titulo=RDM
 descricao=Atacar ou matar outro jogador sem uma motivação válida dentro do RP.
 punicao=
 observacao=
-
-[INFO]
-categoria=Regras de Roleplay
-slug=roleplay
-versao=0.21
-atualizado=06/10/2026
-autor=Nyso Roleplay
-
-
 [REGRA]
 id=002
 titulo=VDM 
