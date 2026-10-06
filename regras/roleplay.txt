@@ -13,7 +13,7 @@ punicao=
 observacao=
 
 [REGRA]
-id=001
+id=002
 titulo=VDM 
 descricao=Utilizar um veículo propositalmente como arma para atropelar ou matar outro jogador sem justificativa válida.
 punicao=
