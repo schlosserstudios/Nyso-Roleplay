@@ -1,1 +1,25 @@
+[INFO]
+categoria=Regras de Roleplay
+slug=roleplay
+versao=1.5
+atualizado=06/10/2026
+autor=Nyso Roleplay
 
+[REGRA]
+id=001
+titulo=RDM
+descricao=Atacar ou matar outro jogador sem uma motivação válida dentro do RP.
+punicao=
+observacao=
+
+[REGRA]
+id=002
+titulo=VDM
+descricao=Utilizar um veículo propositalmente como arma para atropelar ou matar outro jogador sem justificativa válida.
+punicao=
+observacao=
+
+[HISTORICO]
+versao=1.4
+data=06/10/2026
+descricao=Descrição da alteração.
